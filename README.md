@@ -1,5 +1,5 @@
 # Quotes API
 
-[Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes){:target="_blank" rel="noopener"}
+[Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes/?target=_blank)
 
 ![A test image](quote-api.png)
