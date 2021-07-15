@@ -2,10 +2,10 @@
 
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
-# api/v1/quotes
+## api/v1/quotes
 ![A test image](quote-api.png)
 
-## thats how it look like the index of quotes
+### thats how it look like the index of quotes
 
 ```sh
   {"quotes":
