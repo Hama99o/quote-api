@@ -7,9 +7,9 @@
 ## API Documentation
 ### Suported languages: en
 ### Public routes
- GET /quotes (get all quotes) params: [page, per, search]
- GET /quotes/2 (get quote show by id)
- GET /quotes/random (get random quote) by default it shows one quote use params: [nb] for limit of quotes
+* GET /quotes (get all quotes) params: [page, per, search]
+* GET /quotes/2 (get quote show by id)
+* GET /quotes/random (get random quote) by default it shows one quote use params: [nb] for limit of quotes
 
 
 
@@ -41,6 +41,6 @@
   }
 ```
 ## we can use you Get /quotes with three parameters
-#### /qoutes?page
-#### /qoutes?per
-#### /qoutes?search
+* /qoutes?page
+* /qoutes?per
+* /qoutes?search
