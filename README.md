@@ -34,7 +34,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
 
 ![A test image](quote-api.png)
 
-### thats how it look like the GET /api/v1/quotes
+### thats how GET /api/v1/quotes look like
 
 ```sh
   { "quotes":
@@ -54,5 +54,63 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
         "nb_pages":1976,
         "search":null
       }
+  }
+```
+### thats how GET /api/v1/quotes/1 look like
+
+```sh
+  {
+    "id":1,
+    "quote_text":"All diseases run into one, old age.","quote_author":"Ralph Waldo Emerson",
+    "quote_genre":"age",
+    "author_id":1
+  }
+```
+
+### thats how GET /api/v1/quotes/1 look like
+
+```sh
+  {
+    "random_quote":
+      [
+        {
+          "id":3243,
+          "quote_text":"Light in Nature creates the movement of colors.",
+          "quote_author":"Robert Delaunay",
+          "quote_genre":"art",
+          "author_id":922
+        }
+      ]
+  }
+```
+### thats how GET /api/v1/authors look like
+
+```sh
+  [
+    {"id":1175,"name":"Aaliyah"},
+    {"id":3300,"name":"A. A. Milne"},
+    {"id":8886,"name":"Aaron Allston"},
+    {"id":7160,"name":"Aaron Carter"}
+  ]
+```
+
+### thats how GET /api/v1/authors/1 look like
+
+```sh
+  {
+    "id":1,
+    "name":"Ralph Waldo Emerson"
+  }
+```
+
+### thats how GET /api/v1/authors/random look like
+
+```sh
+  {
+    "random_authors":
+      [
+        {"id":5788,"name":"Luigi Pirandello"},
+        {"id":8341,"name":"Melinda Clarke"}
+      ]
   }
 ```
