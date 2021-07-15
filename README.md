@@ -6,7 +6,7 @@ This api is created with Ruby on rails using postgresql. we bring you over 59,00
 
 ## API Documentation
 
-Suported languages: en
+Suported languages: english
 
 ### Public routes
 
