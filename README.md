@@ -9,8 +9,7 @@
 ### Public routes
 * GET /quotes (get all quotes) params: [page, per, search]
 * GET /quotes/2 (get quote show by id)
-* GET /quotes/random (get random quote) by default it shows one quote use params: [nb] for limit of quotes
-
+* GET /quotes/random (get random quote) by default it shows one quote.params: [nb]
 
 
 
