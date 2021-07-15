@@ -1,5 +1,6 @@
 # quotesapi
 ### quotes-from-all-over-the-world API
+#### This api is created with Ruby on rails using postgresql.
 
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
