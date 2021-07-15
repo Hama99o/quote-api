@@ -1,6 +1,6 @@
 # quotesapi
 ### quotes-from-all-over-the-world API
-#### This api is created with Ruby on rails using postgresql.
+#### This api is created with Ruby on rails using postgresql. To understand this api, follow the instructions
 
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
@@ -10,7 +10,7 @@
 ### thats how it look like the index of quotes
 
 ```sh
-  {"quotes":
+  { "quotes":
     [
       {
         "id":24483,
