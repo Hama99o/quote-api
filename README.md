@@ -2,6 +2,11 @@
 ### quotes-from-all-over-the-world API
 This api is created with Ruby on rails using postgresql. we bring you over 59,000 world famous quotes with authors and their genre completely free.
 
+## where is this API used
+this API used in [Quote-guessing-game](https://quote-guessing-game.herokuapp.com/game)
+
+_____________________
+
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
 ## API Documentation
