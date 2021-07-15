@@ -59,7 +59,3 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
       }
   }
 ```
-## we can use you Get /quotes with three parameters
-* /qoutes?page
-* /qoutes?per
-* /qoutes?search
