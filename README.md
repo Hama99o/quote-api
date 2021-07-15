@@ -22,3 +22,7 @@
     ]
   }
 ```
+### we can use you Get /quotes with three parameters
+## /qoutes?page
+## /qoutes?per
+## /qoutes?search
