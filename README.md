@@ -14,7 +14,11 @@
 
 
 
-## GET /quotes
+## GET api/v1/quotes
+
+### Returns all quotes of known author:
+
+
 ![A test image](quote-api.png)
 
 ### thats how it look like the index of quotes
