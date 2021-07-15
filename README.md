@@ -1,4 +1,4 @@
-# quotesapi
+# quotes api
 ### quotes-from-all-over-the-world API
 #### This api is created with Ruby on rails using postgresql. we bring you over 59,000 world famous quotes with authors and their genre completely free. To understand this api, check the instructions
 
