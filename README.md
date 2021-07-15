@@ -27,7 +27,7 @@ GET [`/api/v1/authors/1`](https://quotes-from-all-over-the-world.herokuapp.com/a
 
 GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors/random) (get random authors))
   - By default it shows two authors. With params we can use /authors/random?nb=2 for limiting quotes
-  - we can use reject id of author which you don't want to get in random like /authors/random?reject_id=31
+  - you can use reject_id params for the author which you don't want to get in random list like /authors/random?reject_id=31
 
 
 ## GET /api/v1/quotes photo
