@@ -34,7 +34,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
 
 ![A test image](quote-api.png)
 
-### GET /api/v1/quotes
+### thats how it look like the GET /api/v1/quotes
 
 ```sh
   { "quotes":
