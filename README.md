@@ -6,7 +6,7 @@
 
 ## API Documentation
 
-Suported languages: en, sr.
+Suported languages: en
 
 ### Public routes
 
