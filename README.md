@@ -22,6 +22,7 @@ GET [`/api/v1/quotes/random`](https://quotes-from-all-over-the-world.herokuapp.c
 GET [`/api/v1/authors`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors) (get all authors)
  - With params we can use /quotes?page=2, /quotes?per=3
  - we can use search by name of author like /quotes?search=life
+
 GET [`/api/v1/authors/1`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors/1) (get author show by id)
 
 GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors/random) (get random authors))
