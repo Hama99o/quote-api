@@ -12,7 +12,7 @@ Suported languages: en
 
 GET [`/api/v1/quotes`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes) (get all quotes)
  - With params we can use /quotes?page=2, /quotes?per=3
- - we can use search params by name of author and quotes like /quotes?search=life
+ - we can use search by name of author and quotes like /quotes?search=life
 
 GET [`/api/v1/quotes/2`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes/2) (get quote show by id))
 
@@ -21,7 +21,13 @@ GET [`/api/v1/quotes/random`](https://quotes-from-all-over-the-world.herokuapp.c
 
 GET [`/api/v1/authors`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors) (get all authors)
  - With params we can use /quotes?page=2, /quotes?per=3
- - we can use search params by name of author like /quotes?search=life
+ - we can use search by name of author like /quotes?search=life
+GET [`/api/v1/authors/1`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors/1) (get author show by id)
+
+GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/authors/random) (get random authors))
+  - By default it shows two author. With params we can use /authors/random?nb=2 for limiting quotes
+  - we can use reject id of author which you don't want to get in random like /authors/random?reject_id=31
+
 
 ## GET /api/v1/quotes
 
