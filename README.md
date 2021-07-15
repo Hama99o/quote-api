@@ -7,9 +7,9 @@
 ## API Documentation
 ### Suported languages: en
 ### Public routes
-GET /quotes (get all quotes) params: [page, per, search]
-GET /quotes/2 (get quote show by id)
-GET /quotes/random (get random quote)  by default it shows one quote but use can use params: [nb] for limit of quotes
+ GET /quotes (get all quotes) params: [page, per, search]
+ GET /quotes/2 (get quote show by id)
+ GET /quotes/random (get random quote) by default it shows one quote use params: [nb] for limit of quotes
 
 
 
@@ -30,7 +30,14 @@ GET /quotes/random (get random quote)  by default it shows one quote but use can
         "quote_genre":"friendship",
         "author_id":7617
       }
-    ]
+    ],
+    "meta":
+      {
+        "page":0,
+        "per":30,
+        "nb_pages":1976,
+        "search":null
+      }
   }
 ```
 ## we can use you Get /quotes with three parameters
