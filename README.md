@@ -7,14 +7,14 @@
 ## API Documentation
 ### Suported languages: en
 ### Public routes
-* GET /quotes (get all quotes) params: [page, per, search]
-* GET /quotes/2 (get quote show by id)
-* GET /quotes/random (get random quote) by default it shows one quote.params: [nb]
+* GET /api/v1/quotes (get all quotes) with params use can use /quotes?search=hama /quotes?page=2 /quotes?per=3
+* GET /api/v1/quotes2 (get quote show by id)
+* GET /api/v1/quotes/random (get random quote) by default it shows one quote.params: [nb]
 
 
 
 
-## GET api/v1/quotes
+## GET /api/v1/quotes
 
 ### Returns all quotes of known author:
 
