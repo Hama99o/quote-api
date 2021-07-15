@@ -1,4 +1,4 @@
-# Quotes API
+# quotes-from-all-over-the-world API
 
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
