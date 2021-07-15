@@ -11,7 +11,7 @@ _____________________
 
 ## API Documentation
 
-Suported languages: english
+Supported languages: English
 
 ### Public routes
 
@@ -39,7 +39,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
 
 ![A test image](quote-api.png)
 
-### thats how GET /api/v1/quotes look like
+### That's how GET /api/v1/quotes look like
 
 ```sh
   { "quotes":
@@ -57,11 +57,12 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
         "page":0,
         "per":30,
         "nb_pages":1976,
+        "total_quotes":59271,
         "search":null
       }
   }
 ```
-### thats how GET /api/v1/quotes/1 look like
+### That's how GET /api/v1/quotes/1 look like
 
 ```sh
   {
@@ -72,7 +73,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
   }
 ```
 
-### thats how GET /api/v1/quotes/1 look like
+### That's how GET /api/v1/quotes/1 look like
 
 ```sh
   {
@@ -88,7 +89,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
       ]
   }
 ```
-### thats how GET /api/v1/authors look like
+### That's how GET /api/v1/authors look like
 
 ```sh
   [
@@ -99,7 +100,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
   ]
 ```
 
-### thats how GET /api/v1/authors/1 look like
+### That's how GET /api/v1/authors/1 look like
 
 ```sh
   {
@@ -107,7 +108,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
     "name":"Ralph Waldo Emerson"
   }
 ```
-### thats how GET /api/v1/authors/random look like
+### That's how GET /api/v1/authors/random look like
 
 ```sh
   {
