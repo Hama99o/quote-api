@@ -4,6 +4,17 @@
 
 [Lets go to Quote-api](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
+## API Documentation
+### Suported languages: en
+### Public routes
+#### GET /quotes (get all quotes) params: [page, per, search] it show meta {"page":0,"per":30,"nb_pages":1976,"search":null}
+#### GET /quotes/2 (get quote show by id)
+#### GET /quotes/random (get random quote)  by default it shows one quote but use can use params: [nb] for limit of quotes
+
+
+
+
+
 ## GET /quotes
 ![A test image](quote-api.png)
 
@@ -22,7 +33,7 @@
     ]
   }
 ```
-### we can use you Get /quotes with three parameters
-## /qoutes?page
-## /qoutes?per
-## /qoutes?search
+## we can use you Get /quotes with three parameters
+#### /qoutes?page
+#### /qoutes?per
+#### /qoutes?search
