@@ -11,9 +11,9 @@ Suported languages: en, sr.
 ### Public routes
 
 GET [`/api/v1/quotes`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes) (get all quotes)
-* With params we can use /quotes?search=hama, /quotes?page=2, /quotes?per=3
+* With params we can use /api/v1/quotes?search=hama, /api/v1/quotes?page=2, /api/v1/quotes?per=3
 
-<!-- 
+<!--
 #### GET /api/v1/quotes (get all quotes)
 #### GET /api/v1/quotes/2 (get quote show by id)
 #### GET /api/v1/quotes/random (get random quote)
