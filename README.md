@@ -30,10 +30,7 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
   - we can use reject id of author which you don't want to get in random like /authors/random?reject_id=31
 
 
-## GET /api/v1/quotes
-
-### Returns all quotes of known author:
-
+## GET /api/v1/quotes photo
 
 ![A test image](quote-api.png)
 
