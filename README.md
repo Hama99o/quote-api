@@ -9,8 +9,8 @@
 ### Public routes
 * GET /api/v1/quotes (get all quotes) with params we can use /quotes?search=hama /quotes?page=2 /quotes?per=3
 * GET /api/v1/quotes/2 (get quote show by id)
-* GET /api/v1/quotes/random (get random quote) by default it shows one quote. params: [nb]
-
+* GET /api/v1/quotes/random (get random quote) by default it shows one quote. With params we can use
+/quotes/random?nb=2
 
 
 
