@@ -19,7 +19,7 @@ Supported languages: English
 
 GET [`/api/v1/quotes`](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes) (get all quotes)
  - With params we can use /quotes?page=2, /quotes?per=3
- - we can search by name of author or quote like /quotes?search=life
+ - We can search by name of author or quote like /quotes?search=life
 
 #### That's how GET /api/v1/quotes look like
 
