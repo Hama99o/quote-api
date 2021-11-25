@@ -8,7 +8,7 @@ this API used in [https://quote-guessing-game.herokuapp.com/game](https://quote-
 
 _____________________
 
-## This is the quote API
+## Here is the quote API
 [https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes](https://quotes-from-all-over-the-world.herokuapp.com/api/v1/quotes)
 
 # API Documentation
