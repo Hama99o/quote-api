@@ -4,7 +4,7 @@
 This api is created with Ruby on rails using postgresql. we bring you over 59,000 world famous quotes with authors and their genre completely free.
 
 ## Where is this API used
-this API used in [https://quote-guessing-game.herokuapp.com/game](https://quote-guessing-game.herokuapp.com/game)
+This API used in [https://quote-guessing-game.herokuapp.com/game](https://quote-guessing-game.herokuapp.com/game)
 
 _____________________
 
