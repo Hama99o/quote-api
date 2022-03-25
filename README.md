@@ -5,6 +5,7 @@ This api is created with Ruby on rails using postgresql. we bring you over 59,00
 
 ## Where is this API used
 This API used in [https://quote-guessing-game.herokuapp.com/game](https://quote-guessing-game.herokuapp.com/game)
+
 _____________________
 
 ## Here is the quote API
