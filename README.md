@@ -118,6 +118,4 @@ GET [`/api/v1/authors/random`](https://quotes-from-all-over-the-world.herokuapp.
       ]
   }
 ```
-
-
 <!-- ## GET /api/v1/quotes photo -->
